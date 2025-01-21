@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=GND Pin=U1-14
+Added Pin To Net: NetName=GND Pin=U1-29
+Added Pin To Net: NetName=3V3 Pin=MAX30102-1
+Added Pin To Net: NetName=3V3 Pin=Oled 0.96-3
+Added Pin To Net: NetName=3V3 Pin=U1-30
+Added Net: Name=3V3
+Added Member To Class: ClassName=DATN Member=Component MAX30102 Header 4P 2.54 Duc Thang
+Added Member To Class: ClassName=DATN Member=Component Oled 0.96 Header 4P 2.54 Duc Thang
+Added Room: Name=DATN
